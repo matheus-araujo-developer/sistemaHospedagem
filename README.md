@@ -2,7 +2,8 @@
 Sistema de gerenciamento de hospedagem desenvolvido em C#
 
 # Proposta
-![image](https://github.com/user-attachments/assets/be74f8e8-61bc-4a30-97f4-be7c9d968dd6)
+![image](https://github.com/user-attachments/assets/07dbb6e5-f0dc-4c29-ab27-ffe2ea5089d9)
+
 
 A classe contém 2 variáveis, sendo: 
 
