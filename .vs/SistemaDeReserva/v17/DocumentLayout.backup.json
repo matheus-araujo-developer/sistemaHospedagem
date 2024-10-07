@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\SistemaDeReserva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D68EDD6D-E160-4EE8-8A28-1DA9BC56E98E}|SistemaDeReserva\\SistemaDeReserva.csproj|c:\\users\\mathe\\source\\repos\\sistemadereserva\\sistemadereserva\\models\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68EDD6D-E160-4EE8-8A28-1DA9BC56E98E}|SistemaDeReserva\\SistemaDeReserva.csproj|solutionrelative:sistemadereserva\\models\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68EDD6D-E160-4EE8-8A28-1DA9BC56E98E}|SistemaDeReserva\\SistemaDeReserva.csproj|c:\\users\\mathe\\source\\repos\\sistemadereserva\\sistemadereserva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68EDD6D-E160-4EE8-8A28-1DA9BC56E98E}|SistemaDeReserva\\SistemaDeReserva.csproj|solutionrelative:sistemadereserva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\SistemaDeReserva\\SistemaDeReserva\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDeReserva\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\SistemaDeReserva\\SistemaDeReserva\\Program.cs",
+              "RelativeToolTip": "SistemaDeReserva\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:20:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservas.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\SistemaDeReserva\\SistemaDeReserva\\Models\\Reservas.cs",
+              "RelativeDocumentMoniker": "SistemaDeReserva\\Models\\Reservas.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\SistemaDeReserva\\SistemaDeReserva\\Models\\Reservas.cs",
+              "RelativeToolTip": "SistemaDeReserva\\Models\\Reservas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:07:28.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
